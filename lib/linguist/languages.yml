@@ -7338,6 +7338,11 @@ WebAssembly:
   codemirror_mode: commonlisp
   codemirror_mime_type: text/x-common-lisp
   language_id: 956556503
+WebGPU Shading Language:
+  type: programming
+  color: "#0076cc"
+  extensions:
+  - ".wgsl"
 WebIDL:
   type: programming
   extensions:
